@@ -1,0 +1,36 @@
+.testimonialSlider {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .testimonialItem {
+    padding: 20px;
+  }
+  
+  .testimonialContent {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .testimonialImage {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+  }
+  
+  .testimonialFeedback {
+    font-style: italic;
+    margin: 15px 0;
+  }
+  
+  .testimonialName {
+    font-weight: bold;
+  }
+  
+  .testimonialRole {
+    color: #6c757d;
+  }
+  
